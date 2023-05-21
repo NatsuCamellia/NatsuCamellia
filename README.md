@@ -1,7 +1,7 @@
 <h1 align=center> Hi there 👋, I'm NatsuCamellia. </h1>
 
-- 🔭 I’m currently studying CS at NTU
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently studying CSIE
+- 🌱 I’m currently learning Java & Security
 
 [![NatsuCamellia's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatsuCamellia)](https://github.com/NatsuCamellia/github-readme-stats)
 
