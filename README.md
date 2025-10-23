@@ -2,10 +2,7 @@
 
 ## About me
 - I live in Taiwan, a liberal and beautiful place.
-- My favorite programming languages are Java and Kotlin, both of which are JVM languages.
-- I'm familiar with C and Java.
 - I love to learn new technologies.
-- I'm currently learning Android development.
+- I'm familiar with C.
+- I'm currently learning Rust, Linux kernel and eBPF.
 - I do maintain [my own blog](https://natsucamellia.github.io), please take a look!
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatsuCamellia&layout=compact&theme=transparent)
